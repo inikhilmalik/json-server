@@ -1,584 +1,581 @@
 {
     "login":[],
     "cart":[],
-    "data": 
+    "shirt":[
         {
-            "shirt":[
-                {
-                    "id":1,
-                    "title":"Tommy Bahama Tropic Isles Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9586?$splp$",
-                    "price":1241
-                },
-                {
-                    "id":2,
-                    "title":"Tommy Bahama Siesta Key Floating Fronds Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9600?$splp$",
-                    "price":1409
-                },
-                {
-                    "id":3,
-                    "title":"Tommy Bahama Bahama Coast Palm Tiles Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9587?$splp$",
-                    "price":1302
-                },
-                {
-                    "id":4,
-                    "title":"Polo Ralph Lauren Performance Plaid Oxford Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9927?$splp$",
-                    "price":1230
-                },
-                {
-                    "id":5,
-                    "title":"Polo Ralph Lauren Plaid Oxford Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9925?$splp$",
-                    "price":1150
-                },
-                {
-                    "id":6,
-                    "title":"Polo Ralph Lauren Plaid Stretch Poplin Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9429?$splp$",
-                    "price":1155
-                },
-                {
-                    "id":7,
-                    "title":"Brooks Brothers Friday Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pN1317?$splp$",
-                    "price":3392
-                },
-                {
-                    "id":8,
-                    "title":"Tommy Bahama Florida Falls Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pN1036?$splp$",
-                    "price":1599
-                },
-                {
-                    "id":9,
-                    "title":"Polo Ralph Lauren Plaid Oxford Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9497?$splp$",
-                    "price":2244
-                },
-                {
-                    "id":10,
-                    "title":"Oak Hill Large Plaid Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9422?$splp$",
-                    "price":3399
-                },
-                {
-                    "id":11,
-                    "title":"Tommy Bahama Coast Jungle Royale Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9585?$splp$",
-                    "price":4499
-                },
-                {
-                    "id":12,
-                    "title":"Polo Ralph Lauren Plaid Oxford Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9498?$splp$",
-                    "price":2429
-                },
-                {
-                    "id":13,
-                    "title":"Polo Ralph Lauren Plaid Stretch Poplin Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9429?$splp$",
-                    "price":1155
-                },
-                {
-                    "id":14,
-                    "title":"Brooks Brothers Friday Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pN1317?$splp$",
-                    "price":3392
-                },
-                {
-                    "id":15,
-                    "title":"Tommy Bahama Florida Falls Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pN1036?$splp$",
-                    "price":1599
-                },
-                {
-                    "id":16,
-                    "title":"Polo Ralph Lauren Plaid Oxford Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9497?$splp$",
-                    "price":2244
-                },
-                {
-                    "id":17,
-                    "title":"Oak Hill Large Plaid Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9422?$splp$",
-                    "price":3399
-                },
-                {
-                    "id":18,
-                    "title":"Tommy Bahama Coast Jungle Royale Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9585?$splp$",
-                    "price":4499
-                },
-                {
-                    "id":19,
-                    "title":"Polo Ralph Lauren Plaid Oxford Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9498?$splp$",
-                    "price":2429
-                },
-                {
-                    "id":20,
-                    "title":"Tommy Bahama Tropic Isles Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9586?$splp$",
-                    "price":1241
-                },
-                {
-                    "id":21,
-                    "title":"Tommy Bahama Siesta Key Floating Fronds Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9600?$splp$",
-                    "price":1409
-                },
-                {
-                    "id":22,
-                    "title":"Tommy Bahama Bahama Coast Palm Tiles Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9587?$splp$",
-                    "price":1302
-                },
-                {
-                    "id":23,
-                    "title":"Polo Ralph Lauren Performance Plaid Oxford Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9927?$splp$",
-                    "price":1230
-                },
-                {
-                    "id":24,
-                    "title":"Polo Ralph Lauren Plaid Oxford Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9925?$splp$",
-                    "price":1150
-                },
-                {
-                    "id":25,
-                    "title":"Tommy Bahama Tropic Isles Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9586?$splp$",
-                    "price":1241
-                },
-                {
-                    "id":26,
-                    "title":"Tommy Bahama Siesta Key Floating Fronds Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9600?$splp$",
-                    "price":1409
-                },
-                {
-                    "id":27,
-                    "title":"Tommy Bahama Bahama Coast Palm Tiles Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9587?$splp$",
-                    "price":1302
-                },
-                {
-                    "id":28,
-                    "title":"Polo Ralph Lauren Performance Plaid Oxford Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9927?$splp$",
-                    "price":1230
-                },
-                {
-                    "id":29,
-                    "title":"Polo Ralph Lauren Plaid Oxford Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9925?$splp$",
-                    "price":1150
-                },
-                {
-                    "id":30,
-                    "title":"Polo Ralph Lauren Plaid Stretch Poplin Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9429?$splp$",
-                    "price":1155
-                },
-                {
-                    "id":31,
-                    "title":"Brooks Brothers Friday Sport Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pN1317?$splp$",
-                    "price":3392
-                }
-            ],
-            "tshirt":[
-                {
-                    "id":1,
-                    "title":"Harbor Bay Moisture-Wicking Jersey T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p92989?$splp$",
-                    "price":1241
-                },
-                {
-                    "id":2,
-                    "title":"Harbor Bay Moisture-Wicking Pocket T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG3356?$splp$",
-                    "price":2424
-                },
-                {
-                    "id":3,
-                    "title":"Carhartt Force Delmont T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB3592?$splp$",
-                    "price":2498
-                },
-                {
-                    "id":4,
-                    "title":"Carhartt Long-Sleeve Tee",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p92575?$splp$",
-                    "price":3033
-                },
-                {
-                    "id":5,
-                    "title":"Harbor Bay Slub Henley Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG8559?$splp$",
-                    "price":2676
-                },
-                {
-                    "id":6,
-                    "title":"Harbor Bay Swim Rash Guard T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p94712?$splp$",
-                    "price":4014
-                },
-                {
-                    "id":7,
-                    "title":"Brooks Brothers T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9100?$splp$",
-                    "price":4226
-                },
-                {
-                    "id":8,
-                    "title":"Harbor Bay Muscle Swim T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG3265?$splp$",
-                    "price":1199
-                },
-                {
-                    "id":9,
-                    "title":"Harbor Bay Moisture-Wicking Jersey T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p92989?$splp$",
-                    "price":1241
-                },
-                {
-                    "id":10,
-                    "title":"Harbor Bay Moisture-Wicking Pocket T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG3356?$splp$",
-                    "price":2424
-                },
-                {
-                    "id":11,
-                    "title":"Carhartt Force Delmont T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB3592?$splp$",
-                    "price":2498
-                },
-                {
-                    "id":12,
-                    "title":"Carhartt Long-Sleeve Tee",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p92575?$splp$",
-                    "price":3033
-                },
-                {
-                    "id":13,
-                    "title":"Harbor Bay Slub Henley Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG8559?$splp$",
-                    "price":2676
-                },
-                {
-                    "id":14,
-                    "title":"Harbor Bay Swim Rash Guard T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p94712?$splp$",
-                    "price":4014
-                },
-                {
-                    "id":15,
-                    "title":"Brooks Brothers T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9100?$splp$",
-                    "price":4226
-                },
-                {
-                    "id":16,
-                    "title":"Harbor Bay Muscle Swim T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG3265?$splp$",
-                    "price":1199
-                },
-                {
-                    "id":17,
-                    "title":"Harbor Bay Moisture-Wicking Jersey T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p92989?$splp$",
-                    "price":1241
-                },
-                {
-                    "id":18,
-                    "title":"Harbor Bay Moisture-Wicking Pocket T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG3356?$splp$",
-                    "price":2424
-                },
-                {
-                    "id":19,
-                    "title":"Carhartt Force Delmont T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB3592?$splp$",
-                    "price":2498
-                },
-                {
-                    "id":20,
-                    "title":"Carhartt Long-Sleeve Tee",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p92575?$splp$",
-                    "price":3033
-                },
-                {
-                    "id":21,
-                    "title":"Harbor Bay Slub Henley Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG8559?$splp$",
-                    "price":2676
-                },
-                {
-                    "id":22,
-                    "title":"Harbor Bay Swim Rash Guard T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p94712?$splp$",
-                    "price":4014
-                },
-                {
-                    "id":23,
-                    "title":"Brooks Brothers T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9100?$splp$",
-                    "price":4226
-                },
-                {
-                    "id":24,
-                    "title":"Harbor Bay Muscle Swim T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG3265?$splp$",
-                    "price":1199
-                },
-                {
-                    "id":25,
-                    "title":"Harbor Bay Moisture-Wicking Jersey T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p92989?$splp$",
-                    "price":1241
-                },
-                {
-                    "id":26,
-                    "title":"Harbor Bay Moisture-Wicking Pocket T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG3356?$splp$",
-                    "price":2424
-                },
-                {
-                    "id":27,
-                    "title":"Carhartt Force Delmont T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB3592?$splp$",
-                    "price":2498
-                },
-                {
-                    "id":28,
-                    "title":"Carhartt Long-Sleeve Tee",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p92575?$splp$",
-                    "price":3033
-                },
-                {
-                    "id":29,
-                    "title":"Harbor Bay Slub Henley Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG8559?$splp$",
-                    "price":2676
-                },
-                {
-                    "id":30,
-                    "title":"Harbor Bay Swim Rash Guard T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p94712?$splp$",
-                    "price":4014
-                },
-                {
-                    "id":31,
-                    "title":"Brooks Brothers T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB9100?$splp$",
-                    "price":4226
-                },
-                {
-                    "id":31,
-                    "title":"Harbor Bay Muscle Swim T-Shirt",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG3265?$splp$",
-                    "price":1199
-                }
-                
-            ],
-            "pant":[
-                {
-                    "id":1,
-                    "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pD9839?$splp$",
-                    "price":5999
-                },
-                {
-                    "id":2,
-                    "title":"Nautica Relaxed Straight Fit Stretch Denim Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB7925?$splp$",
-                    "price":5399
-                },
-                {
-                    "id":3,
-                    "title":"Levi's 559 Relaxed Straight Fit Stretch Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p87297?$splp$",
-                    "price":6200
-                },
-                {
-                    "id":4,
-                    "title":"Carhartt Relaxed-Fit Holter Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG8258?$splp$",
-                    "price":4638
-                },
-                {
-                    "id":5,
-                    "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pD8587?$splp$",
-                    "price":7899
-                },
-                {
-                    "id":6,
-                    "title":"Haggar Sharkskin Flat-Front Dress Pants",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB2577?$splp$",
-                    "price":6243
-                },
-                {
-                    "id":7,
-                    "title":"Ballin Comfort-EZE Gabardine Dress Pants",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pD6676?$splp$",
-                    "price":7999
-                },
-                {
-                    "id":8,
-                    "title":"Synrgy Performance Mélange Flat-Front Suit Pants",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG4935?$splp$",
-                    "price":9999
-                },
-                {
-                    "id":9,
-                    "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pD9839?$splp$",
-                    "price":5999
-                },
-                {
-                    "id":10,
-                    "title":"Nautica Relaxed Straight Fit Stretch Denim Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB7925?$splp$",
-                    "price":5399
-                },
-                {
-                    "id":11,
-                    "title":"Levi's 559 Relaxed Straight Fit Stretch Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p87297?$splp$",
-                    "price":6200
-                },
-                {
-                    "id":12,
-                    "title":"Carhartt Relaxed-Fit Holter Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG8258?$splp$",
-                    "price":4638
-                },
-                {
-                    "id":13,
-                    "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pD8587?$splp$",
-                    "price":7899
-                },
-                {
-                    "id":14,
-                    "title":"Haggar Sharkskin Flat-Front Dress Pants",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB2577?$splp$",
-                    "price":6243
-                },
-                {
-                    "id":15,
-                    "title":"Ballin Comfort-EZE Gabardine Dress Pants",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pD6676?$splp$",
-                    "price":7999
-                },
-                {
-                    "id":16,
-                    "title":"Synrgy Performance Mélange Flat-Front Suit Pants",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG4935?$splp$",
-                    "price":9999
-                },
-                {
-                    "id":17,
-                    "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pD9839?$splp$",
-                    "price":5999
-                },
-                {
-                    "id":18,
-                    "title":"Nautica Relaxed Straight Fit Stretch Denim Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB7925?$splp$",
-                    "price":5399
-                },
-                {
-                    "id":19,
-                    "title":"Levi's 559 Relaxed Straight Fit Stretch Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p87297?$splp$",
-                    "price":6200
-                },
-                {
-                    "id":20,
-                    "title":"Carhartt Relaxed-Fit Holter Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG8258?$splp$",
-                    "price":4638
-                },
-                {
-                    "id":21,
-                    "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pD8587?$splp$",
-                    "price":7899
-                },
-                {
-                    "id":22,
-                    "title":"Haggar Sharkskin Flat-Front Dress Pants",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB2577?$splp$",
-                    "price":6243
-                },
-                {
-                    "id":23,
-                    "title":"Ballin Comfort-EZE Gabardine Dress Pants",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pD6676?$splp$",
-                    "price":7999
-                },
-                {
-                    "id":24,
-                    "title":"Synrgy Performance Mélange Flat-Front Suit Pants",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG4935?$splp$",
-                    "price":9999
-                },
-                {
-                    "id":25,
-                    "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pD9839?$splp$",
-                    "price":5999
-                },
-                {
-                    "id":26,
-                    "title":"Nautica Relaxed Straight Fit Stretch Denim Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB7925?$splp$",
-                    "price":5399
-                },
-                {
-                    "id":27,
-                    "title":"Levi's 559 Relaxed Straight Fit Stretch Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/p87297?$splp$",
-                    "price":6200
-                },
-                {
-                    "id":28,
-                    "title":"Carhartt Relaxed-Fit Holter Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG8258?$splp$",
-                    "price":4638
-                },
-                {
-                    "id":29,
-                    "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pD8587?$splp$",
-                    "price":7899
-                },
-                {
-                    "id":30,
-                    "title":"Haggar Sharkskin Flat-Front Dress Pants",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pB2577?$splp$",
-                    "price":6243
-                },
-                {
-                    "id":31,
-                    "title":"Ballin Comfort-EZE Gabardine Dress Pants",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pD6676?$splp$",
-                    "price":7999
-                },
-                {
-                    "id":32,
-                    "title":"Synrgy Performance Mélange Flat-Front Suit Pants",
-                    "url":"https://images.dxl.com/is/image/CasualMale/pG4935?$splp$",
-                    "price":9999
-                }
-            ]
+            "id":1,
+            "title":"Tommy Bahama Tropic Isles Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9586?$splp$",
+            "price":1241
+        },
+        {
+            "id":2,
+            "title":"Tommy Bahama Siesta Key Floating Fronds Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9600?$splp$",
+            "price":1409
+        },
+        {
+            "id":3,
+            "title":"Tommy Bahama Bahama Coast Palm Tiles Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9587?$splp$",
+            "price":1302
+        },
+        {
+            "id":4,
+            "title":"Polo Ralph Lauren Performance Plaid Oxford Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9927?$splp$",
+            "price":1230
+        },
+        {
+            "id":5,
+            "title":"Polo Ralph Lauren Plaid Oxford Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9925?$splp$",
+            "price":1150
+        },
+        {
+            "id":6,
+            "title":"Polo Ralph Lauren Plaid Stretch Poplin Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9429?$splp$",
+            "price":1155
+        },
+        {
+            "id":7,
+            "title":"Brooks Brothers Friday Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pN1317?$splp$",
+            "price":3392
+        },
+        {
+            "id":8,
+            "title":"Tommy Bahama Florida Falls Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pN1036?$splp$",
+            "price":1599
+        },
+        {
+            "id":9,
+            "title":"Polo Ralph Lauren Plaid Oxford Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9497?$splp$",
+            "price":2244
+        },
+        {
+            "id":10,
+            "title":"Oak Hill Large Plaid Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9422?$splp$",
+            "price":3399
+        },
+        {
+            "id":11,
+            "title":"Tommy Bahama Coast Jungle Royale Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9585?$splp$",
+            "price":4499
+        },
+        {
+            "id":12,
+            "title":"Polo Ralph Lauren Plaid Oxford Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9498?$splp$",
+            "price":2429
+        },
+        {
+            "id":13,
+            "title":"Polo Ralph Lauren Plaid Stretch Poplin Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9429?$splp$",
+            "price":1155
+        },
+        {
+            "id":14,
+            "title":"Brooks Brothers Friday Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pN1317?$splp$",
+            "price":3392
+        },
+        {
+            "id":15,
+            "title":"Tommy Bahama Florida Falls Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pN1036?$splp$",
+            "price":1599
+        },
+        {
+            "id":16,
+            "title":"Polo Ralph Lauren Plaid Oxford Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9497?$splp$",
+            "price":2244
+        },
+        {
+            "id":17,
+            "title":"Oak Hill Large Plaid Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9422?$splp$",
+            "price":3399
+        },
+        {
+            "id":18,
+            "title":"Tommy Bahama Coast Jungle Royale Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9585?$splp$",
+            "price":4499
+        },
+        {
+            "id":19,
+            "title":"Polo Ralph Lauren Plaid Oxford Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9498?$splp$",
+            "price":2429
+        },
+        {
+            "id":20,
+            "title":"Tommy Bahama Tropic Isles Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9586?$splp$",
+            "price":1241
+        },
+        {
+            "id":21,
+            "title":"Tommy Bahama Siesta Key Floating Fronds Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9600?$splp$",
+            "price":1409
+        },
+        {
+            "id":22,
+            "title":"Tommy Bahama Bahama Coast Palm Tiles Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9587?$splp$",
+            "price":1302
+        },
+        {
+            "id":23,
+            "title":"Polo Ralph Lauren Performance Plaid Oxford Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9927?$splp$",
+            "price":1230
+        },
+        {
+            "id":24,
+            "title":"Polo Ralph Lauren Plaid Oxford Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9925?$splp$",
+            "price":1150
+        },
+        {
+            "id":25,
+            "title":"Tommy Bahama Tropic Isles Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9586?$splp$",
+            "price":1241
+        },
+        {
+            "id":26,
+            "title":"Tommy Bahama Siesta Key Floating Fronds Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9600?$splp$",
+            "price":1409
+        },
+        {
+            "id":27,
+            "title":"Tommy Bahama Bahama Coast Palm Tiles Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9587?$splp$",
+            "price":1302
+        },
+        {
+            "id":28,
+            "title":"Polo Ralph Lauren Performance Plaid Oxford Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9927?$splp$",
+            "price":1230
+        },
+        {
+            "id":29,
+            "title":"Polo Ralph Lauren Plaid Oxford Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9925?$splp$",
+            "price":1150
+        },
+        {
+            "id":30,
+            "title":"Polo Ralph Lauren Plaid Stretch Poplin Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9429?$splp$",
+            "price":1155
+        },
+        {
+            "id":31,
+            "title":"Brooks Brothers Friday Sport Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pN1317?$splp$",
+            "price":3392
         }
+    ],
+    "tshirt":[
+        {
+            "id":1,
+            "title":"Harbor Bay Moisture-Wicking Jersey T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/p92989?$splp$",
+            "price":1241
+        },
+        {
+            "id":2,
+            "title":"Harbor Bay Moisture-Wicking Pocket T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG3356?$splp$",
+            "price":2424
+        },
+        {
+            "id":3,
+            "title":"Carhartt Force Delmont T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB3592?$splp$",
+            "price":2498
+        },
+        {
+            "id":4,
+            "title":"Carhartt Long-Sleeve Tee",
+            "url":"https://images.dxl.com/is/image/CasualMale/p92575?$splp$",
+            "price":3033
+        },
+        {
+            "id":5,
+            "title":"Harbor Bay Slub Henley Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG8559?$splp$",
+            "price":2676
+        },
+        {
+            "id":6,
+            "title":"Harbor Bay Swim Rash Guard T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/p94712?$splp$",
+            "price":4014
+        },
+        {
+            "id":7,
+            "title":"Brooks Brothers T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9100?$splp$",
+            "price":4226
+        },
+        {
+            "id":8,
+            "title":"Harbor Bay Muscle Swim T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG3265?$splp$",
+            "price":1199
+        },
+        {
+            "id":9,
+            "title":"Harbor Bay Moisture-Wicking Jersey T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/p92989?$splp$",
+            "price":1241
+        },
+        {
+            "id":10,
+            "title":"Harbor Bay Moisture-Wicking Pocket T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG3356?$splp$",
+            "price":2424
+        },
+        {
+            "id":11,
+            "title":"Carhartt Force Delmont T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB3592?$splp$",
+            "price":2498
+        },
+        {
+            "id":12,
+            "title":"Carhartt Long-Sleeve Tee",
+            "url":"https://images.dxl.com/is/image/CasualMale/p92575?$splp$",
+            "price":3033
+        },
+        {
+            "id":13,
+            "title":"Harbor Bay Slub Henley Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG8559?$splp$",
+            "price":2676
+        },
+        {
+            "id":14,
+            "title":"Harbor Bay Swim Rash Guard T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/p94712?$splp$",
+            "price":4014
+        },
+        {
+            "id":15,
+            "title":"Brooks Brothers T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9100?$splp$",
+            "price":4226
+        },
+        {
+            "id":16,
+            "title":"Harbor Bay Muscle Swim T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG3265?$splp$",
+            "price":1199
+        },
+        {
+            "id":17,
+            "title":"Harbor Bay Moisture-Wicking Jersey T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/p92989?$splp$",
+            "price":1241
+        },
+        {
+            "id":18,
+            "title":"Harbor Bay Moisture-Wicking Pocket T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG3356?$splp$",
+            "price":2424
+        },
+        {
+            "id":19,
+            "title":"Carhartt Force Delmont T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB3592?$splp$",
+            "price":2498
+        },
+        {
+            "id":20,
+            "title":"Carhartt Long-Sleeve Tee",
+            "url":"https://images.dxl.com/is/image/CasualMale/p92575?$splp$",
+            "price":3033
+        },
+        {
+            "id":21,
+            "title":"Harbor Bay Slub Henley Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG8559?$splp$",
+            "price":2676
+        },
+        {
+            "id":22,
+            "title":"Harbor Bay Swim Rash Guard T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/p94712?$splp$",
+            "price":4014
+        },
+        {
+            "id":23,
+            "title":"Brooks Brothers T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9100?$splp$",
+            "price":4226
+        },
+        {
+            "id":24,
+            "title":"Harbor Bay Muscle Swim T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG3265?$splp$",
+            "price":1199
+        },
+        {
+            "id":25,
+            "title":"Harbor Bay Moisture-Wicking Jersey T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/p92989?$splp$",
+            "price":1241
+        },
+        {
+            "id":26,
+            "title":"Harbor Bay Moisture-Wicking Pocket T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG3356?$splp$",
+            "price":2424
+        },
+        {
+            "id":27,
+            "title":"Carhartt Force Delmont T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB3592?$splp$",
+            "price":2498
+        },
+        {
+            "id":28,
+            "title":"Carhartt Long-Sleeve Tee",
+            "url":"https://images.dxl.com/is/image/CasualMale/p92575?$splp$",
+            "price":3033
+        },
+        {
+            "id":29,
+            "title":"Harbor Bay Slub Henley Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG8559?$splp$",
+            "price":2676
+        },
+        {
+            "id":30,
+            "title":"Harbor Bay Swim Rash Guard T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/p94712?$splp$",
+            "price":4014
+        },
+        {
+            "id":31,
+            "title":"Brooks Brothers T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB9100?$splp$",
+            "price":4226
+        },
+        {
+            "id":31,
+            "title":"Harbor Bay Muscle Swim T-Shirt",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG3265?$splp$",
+            "price":1199
+        }
+        
+    ],
+    "pant":[
+        {
+            "id":1,
+            "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pD9839?$splp$",
+            "price":5999
+        },
+        {
+            "id":2,
+            "title":"Nautica Relaxed Straight Fit Stretch Denim Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB7925?$splp$",
+            "price":5399
+        },
+        {
+            "id":3,
+            "title":"Levi's 559 Relaxed Straight Fit Stretch Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/p87297?$splp$",
+            "price":6200
+        },
+        {
+            "id":4,
+            "title":"Carhartt Relaxed-Fit Holter Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG8258?$splp$",
+            "price":4638
+        },
+        {
+            "id":5,
+            "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pD8587?$splp$",
+            "price":7899
+        },
+        {
+            "id":6,
+            "title":"Haggar Sharkskin Flat-Front Dress Pants",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB2577?$splp$",
+            "price":6243
+        },
+        {
+            "id":7,
+            "title":"Ballin Comfort-EZE Gabardine Dress Pants",
+            "url":"https://images.dxl.com/is/image/CasualMale/pD6676?$splp$",
+            "price":7999
+        },
+        {
+            "id":8,
+            "title":"Synrgy Performance Mélange Flat-Front Suit Pants",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG4935?$splp$",
+            "price":9999
+        },
+        {
+            "id":9,
+            "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pD9839?$splp$",
+            "price":5999
+        },
+        {
+            "id":10,
+            "title":"Nautica Relaxed Straight Fit Stretch Denim Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB7925?$splp$",
+            "price":5399
+        },
+        {
+            "id":11,
+            "title":"Levi's 559 Relaxed Straight Fit Stretch Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/p87297?$splp$",
+            "price":6200
+        },
+        {
+            "id":12,
+            "title":"Carhartt Relaxed-Fit Holter Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG8258?$splp$",
+            "price":4638
+        },
+        {
+            "id":13,
+            "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pD8587?$splp$",
+            "price":7899
+        },
+        {
+            "id":14,
+            "title":"Haggar Sharkskin Flat-Front Dress Pants",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB2577?$splp$",
+            "price":6243
+        },
+        {
+            "id":15,
+            "title":"Ballin Comfort-EZE Gabardine Dress Pants",
+            "url":"https://images.dxl.com/is/image/CasualMale/pD6676?$splp$",
+            "price":7999
+        },
+        {
+            "id":16,
+            "title":"Synrgy Performance Mélange Flat-Front Suit Pants",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG4935?$splp$",
+            "price":9999
+        },
+        {
+            "id":17,
+            "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pD9839?$splp$",
+            "price":5999
+        },
+        {
+            "id":18,
+            "title":"Nautica Relaxed Straight Fit Stretch Denim Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB7925?$splp$",
+            "price":5399
+        },
+        {
+            "id":19,
+            "title":"Levi's 559 Relaxed Straight Fit Stretch Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/p87297?$splp$",
+            "price":6200
+        },
+        {
+            "id":20,
+            "title":"Carhartt Relaxed-Fit Holter Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG8258?$splp$",
+            "price":4638
+        },
+        {
+            "id":21,
+            "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pD8587?$splp$",
+            "price":7899
+        },
+        {
+            "id":22,
+            "title":"Haggar Sharkskin Flat-Front Dress Pants",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB2577?$splp$",
+            "price":6243
+        },
+        {
+            "id":23,
+            "title":"Ballin Comfort-EZE Gabardine Dress Pants",
+            "url":"https://images.dxl.com/is/image/CasualMale/pD6676?$splp$",
+            "price":7999
+        },
+        {
+            "id":24,
+            "title":"Synrgy Performance Mélange Flat-Front Suit Pants",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG4935?$splp$",
+            "price":9999
+        },
+        {
+            "id":25,
+            "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pD9839?$splp$",
+            "price":5999
+        },
+        {
+            "id":26,
+            "title":"Nautica Relaxed Straight Fit Stretch Denim Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB7925?$splp$",
+            "price":5399
+        },
+        {
+            "id":27,
+            "title":"Levi's 559 Relaxed Straight Fit Stretch Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/p87297?$splp$",
+            "price":6200
+        },
+        {
+            "id":28,
+            "title":"Carhartt Relaxed-Fit Holter Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG8258?$splp$",
+            "price":4638
+        },
+        {
+            "id":29,
+            "title":"Polo Ralph Lauren Hampton Relaxed Straight-Fit Stretch Jeans",
+            "url":"https://images.dxl.com/is/image/CasualMale/pD8587?$splp$",
+            "price":7899
+        },
+        {
+            "id":30,
+            "title":"Haggar Sharkskin Flat-Front Dress Pants",
+            "url":"https://images.dxl.com/is/image/CasualMale/pB2577?$splp$",
+            "price":6243
+        },
+        {
+            "id":31,
+            "title":"Ballin Comfort-EZE Gabardine Dress Pants",
+            "url":"https://images.dxl.com/is/image/CasualMale/pD6676?$splp$",
+            "price":7999
+        },
+        {
+            "id":32,
+            "title":"Synrgy Performance Mélange Flat-Front Suit Pants",
+            "url":"https://images.dxl.com/is/image/CasualMale/pG4935?$splp$",
+            "price":9999
+        }
+    ]
 }
